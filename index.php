@@ -9,8 +9,9 @@
 
     <!-- CSS -->
     <link rel="stylesheet" href="./css/reset.css">
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/style.css?<?php echo rand(111, 999999) ?>">
 
+    <link rel="shortcut icon" href="./images/favicon-75.png">
 </head>
 
 <body>
@@ -24,7 +25,7 @@
                     <img src="./images/bg-desktop.png" alt="">
                 </div>
                 <div class="box-right">
-                    <a class="cta" href="#">
+                    <a class="cta" href="https://www.moto880.com/">
                         <span>100ms</span>
                         <span>Hà Nội</span>
                         <span>
@@ -37,7 +38,7 @@
                             </svg>
                         </span>
                     </a>
-                    <a class="cta" href="#">
+                    <a class="cta" href="https://www.moto881.com/">
                         <span>100ms</span>
                         <span>Đà Nẵng</span>
                         <span>
@@ -50,7 +51,7 @@
                             </svg>
                         </span>
                     </a>
-                    <a class="cta" href="#">
+                    <a class="cta" href="https://www.moto882.com/">
                         <span>100ms</span>
                         <span>TP HCM</span>
                         <span>
@@ -63,7 +64,7 @@
                             </svg>
                         </span>
                     </a>
-                    <a class="cta" href="#">
+                    <a class="cta" href="https://www.moto883.com/">
                         <span>100ms</span>
                         <span>Cần Thơ</span>
                         <span>
@@ -76,7 +77,7 @@
                             </svg>
                         </span>
                     </a>
-                    <a class="cta" href="#">
+                    <a class="cta" href="https://www.moto884.com/">
                         <span>100ms</span>
                         <span>Nha Trang</span>
                         <span>
@@ -89,7 +90,7 @@
                             </svg>
                         </span>
                     </a>
-                    <a class="cta" href="#">
+                    <a class="cta" href="https://www.moto885.com/">
                         <span>100ms</span>
                         <span>Phú Quốc</span>
                         <span>
@@ -107,56 +108,43 @@
             </div>
 
             <div class="box-btn-redirect">
-                <a href="#" class="animated-button ">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <ion-icon name="home" class="icon"></ion-icon>
-                    trang chủ
+                <a href="#">
+                    <button class="glow-on-hover" type="button">
+                        <ion-icon name="home" class="icon"></ion-icon>
+                        <span class="title">Trang chủ</span>
+                    </button>
                 </a>
-                <a href="#" class="animated-button">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <ion-icon name="logo-android" class="icon"></ion-icon>
-                    android
+                <a href="#">
+                    <button class="glow-on-hover" type="button">
+                        <ion-icon name="logo-android" class="icon"></ion-icon>
+                        <span class="title">android</span>
+                    </button>
                 </a>
-                <a href="#" class="animated-button">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <ion-icon name="logo-apple" class="icon"></ion-icon>
-                    ios
+                <a href="#">
+                    <button class="glow-on-hover" type="button">
+                        <ion-icon name="logo-apple" class="icon"></ion-icon>
+                        <span class="title">ios</span>
+                    </button>
                 </a>
-                <a href="#" class="animated-button">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <ion-icon name="people" class="icon"></ion-icon>
-                    đại lý
+                <a href="#">
+                    <button class="glow-on-hover" type="button">
+                        <ion-icon name="people" class="icon"></ion-icon>
+                        <span class="title">Đại lý</span>
+                    </button>
                 </a>
-                <a href="#" class="animated-button">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <ion-icon name="call" class="icon"></ion-icon>
-                    cskh
+                <a href="#">
+                    <button class="glow-on-hover" type="button">
+                        <ion-icon name="call" class="icon"></ion-icon>
+                        <span class="title">CSKH</span>
+                    </button>
                 </a>
-                <a href="#" class="animated-button">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <ion-icon name="cash" class="icon"></ion-icon>
-                    khuyến mãi
+                <a href="#">
+                    <button class="glow-on-hover" type="button">
+                        <ion-icon name="cash" class="icon"></ion-icon>
+                        <span class="title">Khuyến mãi</span>
+                    </button>
                 </a>
 
-                <!-- <div class="button ice">Ice</div> -->
             </div>
         </div>
     </div>
