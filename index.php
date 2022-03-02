@@ -108,37 +108,37 @@
             </div>
 
             <div class="box-btn-redirect">
-                <a href="#">
+                <a href="https://www.moto880.com/">
                     <button class="glow-on-hover" type="button">
                         <ion-icon name="home" class="icon"></ion-icon>
                         <span class="title">Trang chủ</span>
                     </button>
                 </a>
-                <a href="#">
+                <a href="https://moto88.site/">
                     <button class="glow-on-hover" type="button">
                         <ion-icon name="logo-android" class="icon"></ion-icon>
                         <span class="title">android</span>
                     </button>
                 </a>
-                <a href="#">
+                <a href="https://moto88.site/">
                     <button class="glow-on-hover" type="button">
                         <ion-icon name="logo-apple" class="icon"></ion-icon>
                         <span class="title">ios</span>
                     </button>
                 </a>
-                <a href="#">
+                <a href="https://moto88.pro/">
                     <button class="glow-on-hover" type="button">
                         <ion-icon name="people" class="icon"></ion-icon>
                         <span class="title">Đại lý</span>
                     </button>
                 </a>
-                <a href="#">
+                <a href="https://moto68.com/">
                     <button class="glow-on-hover" type="button">
                         <ion-icon name="call" class="icon"></ion-icon>
                         <span class="title">CSKH</span>
                     </button>
                 </a>
-                <a href="#">
+                <a href="https://www.moto880.com/promotions">
                     <button class="glow-on-hover" type="button">
                         <ion-icon name="cash" class="icon"></ion-icon>
                         <span class="title">Khuyến mãi</span>
